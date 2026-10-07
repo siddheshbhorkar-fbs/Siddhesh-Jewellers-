@@ -1,0 +1,13 @@
+{
+  "name": "siddhesh-jewellers",
+  "version": "1.0.0",
+  "description": "Siddhesh Jewellers Android App",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "build": "echo \"Build step\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
